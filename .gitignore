@@ -1,0 +1,23 @@
+# PyCharm 生成文件
+.idea/
+*.iml
+modules.xml
+workspace.xml
+
+# Python 虚拟环境
+venv/
+env/
+ENV/
+
+# Python 编译缓存
+__pycache__/
+*.py[cod]
+
+# 日志与敏感文件
+*.log
+.env
+*.secret
+_archieve/
+_debug/
+_doc/
+
